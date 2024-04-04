@@ -32,7 +32,7 @@ Open the index.html file in your preferred web browser.
 
 [Live Demo](https://martbarber.netlify.app)
 
-Screenshots
+## Screenshots
 
 _To be added once project is complete_
 
