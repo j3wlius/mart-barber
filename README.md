@@ -22,12 +22,12 @@ A modern and stylish website designed for Mart Barber, providing customers with 
 
 ## Project Setup
 
-Clone this repository.
+Clone this repository.<br>
 Open the index.html file in your preferred web browser.
 
 ## Future Development Considerations
 
-**Booking System Integration**: Connect with backend services to manage appointments, send confirmations, and update availability in real-time.
+**Booking System Integration**: Connect with backend services to manage appointments, send confirmations, and update availability in real-time.<br>
 **Customer Profiles**: Allow clients to create profiles for storing their preferences and booking history.
 
 [Live Demo](https://martbarber.netlify.app)
