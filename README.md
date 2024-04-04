@@ -16,8 +16,8 @@ A modern and stylish website designed for Mart Barber, providing customers with 
 
 ## Technologies
 
-**HTML5**: For the foundational structure of the website.
-**CSS3**: For styling, layout (Flexbox or Grid), and subtle animations.
+**HTML5**: For the foundational structure of the website.<br>
+**CSS3**: For styling, layout (Flexbox or Grid), and subtle animations.<br>
 **JavaScript**: For the interactivity & dynamic elements.
 
 ## Project Setup
